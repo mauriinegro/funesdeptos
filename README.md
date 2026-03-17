@@ -1,11 +1,11 @@
 # Funes Departamentos - Gestion de alojamientos
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Finished-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Desktop-App-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Real-Project-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/status-finished-brightgreen"/>
+  <img src="https://img.shields.io/badge/type-desktop-blue"/>
+  <img src="https://img.shields.io/badge/client-real-orange"/>
 </p>
 
 Sistema de gestión de alojamientos desarrollado para la administración de reservas, clientes y departamentos, con control de disponibilidad y seguimiento de pagos.
