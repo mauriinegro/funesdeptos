@@ -42,11 +42,6 @@ Este sistema fue desarrollado en:
 
 La utilización de SQLite permite que la aplicación funcione de manera completamente local en la computadora del cliente, sin necesidad de conexión a internet ni configuraciones adicionales.
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
 ---
 
 ## Capturas del sistema
