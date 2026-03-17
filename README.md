@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/status-finished-brightgreen"/>
   <img src="https://img.shields.io/badge/type-desktop-blue"/>
-  <img src="https://img.shields.io/badge/real-project-orange"/>
+  <img src="https://img.shields.io/badge/client-real-orange"/>
 </p>
 
 Sistema de gestión de alojamientos desarrollado para la administración de reservas, clientes y departamentos, con control de disponibilidad y seguimiento de pagos.
