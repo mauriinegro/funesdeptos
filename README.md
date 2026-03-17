@@ -22,14 +22,14 @@ La aplicación permite centralizar toda la información en una única interfaz, 
 
 ## Funcionalidades
 
-- ✔️ ABM de clientes  
-- ✔️ ABM de departamentos  
-- ✔️ Registro y edición de reservas  
-- ✔️ Control de disponibilidad por fechas  
-- ✔️ Vista de calendario por departamento  
-- ✔️ Listado completo de reservas con filtros  
-- ✔️ Gestión de pagos (señas y saldo restante)  
-- ✔️ Balance general de reservas  
+- ✅ ABM de clientes  
+- ✅ ABM de departamentos  
+- ✅ Registro y edición de reservas  
+- ✅ Control de disponibilidad por fechas
+- ✅ Vista de calendario por departamento  
+- ✅ Listado completo de reservas con filtros  
+- ✅ Gestión de pagos (señas y saldo restante)  
+- ✅ Balance general de reservas  
 
 ---
 
@@ -96,4 +96,4 @@ La utilización de SQLite permite que la aplicación funcione de manera completa
 
 ## Estado del proyecto
 
-✔️ Aplicación funcional desarrollada para uso real en la gestión de reservas de alojamientos.
+✅ Aplicación funcional desarrollada para uso real en la gestión de reservas de alojamientos.
