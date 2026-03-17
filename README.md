@@ -1,18 +1,18 @@
-# 🏢 Funes Departamentos
+# Funes Departamentos - Gestion de alojamientos
 
 Sistema de gestión de alojamientos desarrollado para la administración de reservas, clientes y departamentos, con control de disponibilidad y seguimiento de pagos.
 
 ---
 
-## 📌 Descripción
+## Descripción
 
-Este sistema fue desarrollado como solución para un cliente real que necesitaba organizar la gestión de sus departamentos, ya que llevaba el control de reservas de forma manual y comenzaba a tener conflictos de fechas.
+Este sistema fue desarrollado como solución para un cliente real que necesitaba organizar la gestión de sus departamentos, ya que llevaba el control de reservas de forma manual, lo que generaba conflictos en la asignación de fechas.
 
-La aplicación permite registrar y consultar reservas de manera clara, evitando superposiciones y centralizando toda la información en una única interfaz.
+La aplicación permite centralizar toda la información en una única interfaz, facilitando la carga, consulta y control de reservas, evitando superposiciones y mejorando la gestión general.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - ✔️ ABM de clientes  
 - ✔️ ABM de departamentos  
@@ -25,51 +25,60 @@ La aplicación permite registrar y consultar reservas de manera clara, evitando 
 
 ---
 
-## 🧠 Tecnologías
+## Tecnologías
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+Este sistema fue desarrollado en:
+
+- **Java** (aplicación de escritorio)  
+- **SQLite** (base de datos local)
+
+La utilización de SQLite permite que la aplicación funcione de manera completamente local en la computadora del cliente, sin necesidad de conexión a internet ni configuraciones adicionales.
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
 ---
 
-## 📸 Capturas del sistema
+## Capturas del sistema
 
-### 🏠 Pantalla principal
+### Pantalla principal
 ![Inicio](screenshots/1.PNG)
 
 ---
 
-### 👤 Gestión de clientes
+### Gestión de clientes
 ![Clientes](screenshots/2.PNG)
 
 ---
 
-### 🏢 Gestión de departamentos
+### Gestión de departamentos
 ![Departamentos](screenshots/3.PNG)
 
 ---
 
-### 📅 Nueva reserva
+### Nueva reserva
 ![Reserva](screenshots/4.PNG)
 
 ---
 
-### 📋 Lista de reservas
+### Lista de reservas
 ![Lista](screenshots/5.PNG)
 
 ---
 
-### 🗓️ Calendario de ocupación
+### Calendario de ocupación
 ![Calendario](screenshots/6.PNG)
 
 ---
 
-### 💰 Balance de reservas
+### Balance de reservas
 ![Balance](screenshots/7.PNG)
 
 ---
 
-### 💳 Registro de pagos
+### Registro de pagos
 ![Pagos](screenshots/8.PNG)
 
 ---
@@ -82,6 +91,6 @@ La aplicación permite registrar y consultar reservas de manera clara, evitando 
 
 ---
 
-## 📊 Estado del proyecto
+## Estado del proyecto
 
-✔️ Funcional y utilizado para gestión real de reservas  
+✔️ Aplicación funcional desarrollada para uso real en la gestión de reservas de alojamientos.
