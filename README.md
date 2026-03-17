@@ -1,7 +1,7 @@
 # Funes Departamentos - Gestion de alojamientos
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/status-finished-brightgreen"/>
   <img src="https://img.shields.io/badge/type-desktop-blue"/>
