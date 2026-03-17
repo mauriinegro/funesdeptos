@@ -35,42 +35,42 @@ La aplicación permite registrar y consultar reservas de manera clara, evitando 
 ## 📸 Capturas del sistema
 
 ### 🏠 Pantalla principal
-![Inicio](screenshots/1.png)
+![Inicio](screenshots/1.PNG)
 
 ---
 
 ### 👤 Gestión de clientes
-![Clientes](screenshots/2.png)
+![Clientes](screenshots/2.PNG)
 
 ---
 
 ### 🏢 Gestión de departamentos
-![Departamentos](screenshots/3.png)
+![Departamentos](screenshots/3.PNG)
 
 ---
 
 ### 📅 Nueva reserva
-![Reserva](screenshots/4.png)
+![Reserva](screenshots/4.PNG)
 
 ---
 
 ### 📋 Lista de reservas
-![Lista](screenshots/5.png)
+![Lista](screenshots/5.PNG)
 
 ---
 
 ### 🗓️ Calendario de ocupación
-![Calendario](screenshots/6.png)
+![Calendario](screenshots/6.PNG)
 
 ---
 
 ### 💰 Balance de reservas
-![Balance](screenshots/7.png)
+![Balance](screenshots/7.PNG)
 
 ---
 
 ### 💳 Registro de pagos
-![Pagos](screenshots/8.png)
+![Pagos](screenshots/8.PNG)
 
 ---
 
