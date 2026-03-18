@@ -3,9 +3,9 @@
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/status-finished-brightgreen"/>
-  <img src="https://img.shields.io/badge/type-desktop-blue"/>
-  <img src="https://img.shields.io/badge/real-project-orange"/>
+  <img src="https://img.shields.io/badge/Status-Finished-brightgreen"/>
+  <img src="https://img.shields.io/badge/Desktop-App-blue"/>
+  <img src="https://img.shields.io/badge/Real-pProject-orange"/>
 </p>
 
 Sistema de gestión de alojamientos desarrollado para la administración de reservas, clientes y departamentos, con control de disponibilidad y seguimiento de pagos.
